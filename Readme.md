@@ -1,3 +1,4 @@
+WIP: Untested!
 CreateElegooNeptune3Thumbnail Post Processing Script for Cura
 =============================================================
 
